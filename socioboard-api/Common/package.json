@@ -31,7 +31,7 @@
     "ffmpeg": "0.0.4",
     "get-media-dimensions": "^2.0.2",
     "googleapis": "^52.1.0",
-    "image-size": "^1.0.0",
+    "image-size": "^2.0.3",
     "joi": "^17.4.2",
     "jsonwebtoken": "^9.0.0",
     "mongoose": "^5.13.2",
